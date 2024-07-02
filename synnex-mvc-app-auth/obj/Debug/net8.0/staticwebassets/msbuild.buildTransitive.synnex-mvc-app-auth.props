@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/synnex-mvc-app-auth.props" />
+</Project>

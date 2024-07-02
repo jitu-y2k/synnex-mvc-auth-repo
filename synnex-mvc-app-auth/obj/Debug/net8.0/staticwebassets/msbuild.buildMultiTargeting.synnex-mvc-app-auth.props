@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/synnex-mvc-app-auth.props" />
+</Project>
